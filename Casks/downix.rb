@@ -1,6 +1,6 @@
 cask "downix" do
   version "1.0.1"
-  sha256 "REPLACE_WITH_SHA256_OF_Downix-1.0.1.dmg"
+  sha256 "353d55fe855b311aecc0cceda6c9ebf3ef3d8222d1e3fee67892392b83d59b35  dist/Downix-1.0.1.dmg"
 
   url "https://github.com/kms69/Downix/releases/download/v#{version}/Downix-#{version}.dmg"
   name "Downix"
