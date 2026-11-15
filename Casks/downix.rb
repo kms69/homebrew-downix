@@ -1,6 +1,6 @@
 cask "downix" do
-  version "1.0.2"
-  sha256 "508cf68bfda07e8d24a8ee81d09b2a839cf30e096ee38615bb9b753a6b8084a1"
+  version "1.0.3"
+  sha256 "0a2c26e7e66be77eeac6e2fc0b3ffd8daac08c6ee8eaa7f93e39ad0bd81e26da"
 
   url "https://github.com/kms69/Downix/releases/download/v#{version}/Downix-#{version}.dmg"
   name "Downix"
